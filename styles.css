@@ -515,7 +515,8 @@ PROJECTS
    z-index: 1;
 }
 
-.project{
+.project,
+.education{
    margin-bottom: 120px;
 }
 
